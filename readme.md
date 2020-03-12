@@ -1,39 +1,86 @@
-Site [www.devfuria.com.br](http://www.devfuria.com.br "DevFuria")
-=====
+# DevFuria
 
-O site aborda desenvolvimento de aplicações web.
+"O que é isso, o site devfuria acabou ?"
 
-Não é um blog, ele parece-se mais com um site de cursos.
-
-Ele é feito especialmente para o público iniciante.
+Obviamente que não, mas eu mudei um pouco as coisas de lugar.
 
 
+Seção Backbonejs:
 
-Instalação
----
+- http://devfuria.com.br/backbonejs/
+- https://github.com/flaviomicheletti/backbonejs
 
-1. Você deve [instalar a linguagem ruby](http://www.devfuria.com.br/linux/cookbook/ruby-on-rails/).
-2. Instale a gem do Jekyll `gem install jekyll`.
-3. Instale a gem de [sitemap](https://rubygems.org/gems/jekyll-sitemap) `gem install jekyll-sitemap`.
-4. Clone o repositório.
-5. Execute o jekyll `jekyll server` e veja o resultado em [http://localhost:4000/](http://localhost:4000/).
+Seção Git:
 
+- http://devfuria.com.br/git/
+- https://github.com/flaviomicheletti/git
 
-Você pode contribuir sim!!!
----
+Seção Canvas (HTML):
 
-Quer ajudar de alguma forma?
+- http://devfuria.com.br/html-canvas/
+- https://github.com/flaviomicheletti/html-canvas
 
-A primeira coisa que você terá que fazer é definir "em que" e "como" ajudar. 
+Seção HTML & CSS:
 
-Para gerar o site utilize o jekyll.
+- http://devfuria.com.br/html-css/
+- https://github.com/flaviomicheletti/html-css
 
+Seção JavaScript:
 
+- http://devfuria.com.br/javascript/
+- https://github.com/flaviomicheletti/javascript
 
+Seção Linguagem C:
 
+- http://devfuria.com.br/linguagem-c/
+- https://github.com/flaviomicheletti/linguagem-c
 
-Contato
----
+Seção Linux:
 
-feedback@devfuria.com.br
+- http://devfuria.com.br/linux/
+- https://github.com/flaviomicheletti/linux
 
+Seção Lógica de Programação:
+
+- http://devfuria.com.br/logica-de-programacao/
+- https://github.com/flaviomicheletti/logica-de-programacao
+
+Seção Miscellaneous:
+
+- http://devfuria.com.br/miscellaneous/
+- https://github.com/flaviomicheletti/miscellaneous
+
+Seção Node.js:
+
+- http://devfuria.com.br/nodejs/
+- https://github.com/flaviomicheletti/nodejs
+
+Seção PHP:
+
+- http://devfuria.com.br/php/
+- https://github.com/flaviomicheletti/php
+
+Seção Python:
+
+- http://devfuria.com.br/python/
+- https://github.com/flaviomicheletti/python
+
+Seção RegEx:
+
+- http://devfuria.com.br/regex/
+- https://github.com/flaviomicheletti/regex
+
+Seção Segurança da Informação
+
+- http://devfuria.com.br/seguranca-da-informacao/
+- https://github.com/flaviomicheletti/seguranca-da-informacao
+
+Seção SQL:
+
+- http://devfuria.com.br/sql/
+- https://github.com/flaviomicheletti/sql
+
+Seção TDD:
+
+- http://devfuria.com.br/tdd/
+- https://github.com/flaviomicheletti/tdd
